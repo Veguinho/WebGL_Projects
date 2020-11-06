@@ -2,3 +2,8 @@
 ## Course professor:  Luciano Soares
 ### Made by Rafael Vieira Rosenzvaig
 
+___
+
+### Examples:
+- https://veguinho.github.io/Parte1.html
+- https://veguinho.github.io/Parte3.html
